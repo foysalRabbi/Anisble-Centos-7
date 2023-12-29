@@ -1,5 +1,21 @@
 # LAMP_Ansible_Centos7
-Note: Don't change any directory Name. and clone this project to your root directory.
+The term "LAMP_Ansible_Centos7" seems to refer to a specific technology stack and configuration used in IT and software development. Let's break down the components:
+# LAMP:
+
+L: Stands for Linux, the operating system.
+A: Stands for Apache, the web server.
+M: Stands for MySQL or MariaDB, the relational database management system.
+P: Stands for PHP, Python, or Perl, the programming languages used for web development.
+LAMP is a popular open-source web development stack used for building dynamic web applications and websites.
+
+# Ansible:
+
+Ansible is an open-source automation tool that is used for configuration management, application deployment, task automation, and orchestration. It simplifies complex tasks, making it easier to manage and scale infrastructure.
+CentOS 7:
+
+CentOS is a free and open-source Linux distribution based on the sources of Red Hat Enterprise Linux (RHEL). CentOS 7 is a specific version of CentOS.
+
+# Note: Don't change any directory Name. and clone this project to your root directory.
 This repository is only for practice purpose.
 
 This repository will work on centos 7 for LAMP Stack (Apache, PHP8.1, Mariadb)
