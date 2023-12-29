@@ -1,12 +1,13 @@
 # LAMP_Ansible_Centos7
+
 The term "LAMP_Ansible_Centos7" seems to refer to a specific technology stack and configuration used in IT and software development. Let's break down the components:
 # LAMP:
 
 1. L: Stands for Linux, the operating system.
 2. A: Stands for Apache, the web server.
 3. M: Stands for MySQL or MariaDB, the relational database management system.
-4. P: Stands for PHP, Python, or Perl, the programming languages used for web development.
-5. 
+4. P: Stands for PHP
+   
 LAMP is a popular open-source web development stack used for building dynamic web applications and websites.
 
 # Ansible:
