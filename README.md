@@ -13,7 +13,8 @@ LAMP is a popular open-source web development stack used for building dynamic we
 # Ansible:
 
 Ansible is an open-source automation tool that is used for configuration management, application deployment, task automation, and orchestration. It simplifies complex tasks, making it easier to manage and scale infrastructure.
-CentOS 7:
+
+# CentOS 7:
 
 CentOS is a free and open-source Linux distribution based on the sources of Red Hat Enterprise Linux (RHEL). CentOS 7 is a specific version of CentOS.
 
@@ -24,7 +25,7 @@ This repository will work on centos 7 for LAMP Stack (Apache, PHP8.1, Mariadb)
 This is a php base web application backed with mysql Database.
 In you ansible Host file locatted /etc/ansible/hosts or you can configure your custome inventory file for this stack. In your invantory file server group name should be as following:
 
-Ansible Inventory Configuration:
+# Ansible Inventory Configuration:
 
 [web] for web server configuration. you just configure your server ip under this group for web configuration.
 
@@ -40,7 +41,7 @@ In HAProxy configuration file just change your webserver ip address. File locati
 
 
 
-All done now just run yml file as per secquence or you can run all_task.yaml
+All done now just run yml file as per sequence or you can run all_task.yaml
 
 1. repository_installation.yml
 2. apache-with-php.yml
